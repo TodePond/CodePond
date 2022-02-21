@@ -1,2 +1,3 @@
 curl -fsSL https://deno.land/install.sh | sh
-sudo mv /home/codespace/.deno/bin/deno /usr/bin
+deno install --allow-net --allow-read https://deno.land/std@0.106.0/http/file_server.ts
+export PATH="/home/codespace/.deno/bin:$PATH"
