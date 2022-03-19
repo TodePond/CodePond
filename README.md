@@ -1,5 +1,5 @@
 # CodePond
-This is how I quickly setup my github Codespaces environment from scratch.
+This is how I quickly setup my github codespaces environment from scratch.
 
 First, run this in the console!
 ```bash
